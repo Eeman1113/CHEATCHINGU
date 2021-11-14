@@ -1,0 +1,73 @@
+ 
+
+Seer) @ @ = SunNov14 10:24 OORT Es
+fi.) ix x) Ertl era ee COL
+[Ca =< aCe TCU)
+
+as
+
+My
+
+   
+
+rena eae Rn) Cae
+eenshot.py > @
+
+ 
+
+rs
+
+ 
+
+    
+
+ 
+
+ 
+
+F | 2 Get Started
+pe eran
+Ceca 1
+© ; ,
+Rae etnnd separ? a
+e aero
+FC Comer u dO
+img = pyautogui.screenshot()
+a) 13 img = np.array((img)|
+cy img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
+cv2.imwrite("screenshot.png", img)
+a screenshot ()
+ted eee Pe ea ea
+BS —_——_
+Sad raise NotImplementedError('"scrot" must be installed to use screenshot functions in Linux. Run: sudo apt-get install scrot')
+Cae Pers el i ee eee ee ee ee Ee CL ae aot ee meee ULES icteric Mecond
+
+ 
+
+Pane + eemangeeman-Inspiron-3576:~/Downloads/code_shit/cheatchingu$ /usr/bin/python3 /home/eeman/Downloads/code_shit/cheatchingu/img to text.py
+B sc Stas tea Urea tc ee so
+
+RCM ec Wy MCC Me Re felcLce TAU iO oat yee Pe Cos
+CS ea Pu igeeaeeceuctas
+
+Teen eet der te OC CML nee ta
+
+eemangeeman-Inspiron-3576:~/Downloads/code_shit/cheatchingu$ /usr/bin/python3 /home/eeman/Downloads/code_shit/cheatchingu/screenshot. py
+an eemangeeman- Inspiron-3576:~/Downloads/code_shit/cheatchingu$ /usr/bin/python3 /home/eeman/Downloads/code_shit/cheatchingu/screenshot .py
+
+i
+
+ 
+
+eas
+
+ 
+
+ 
+
+          
+
+ 
+
+ 
+
