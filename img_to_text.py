@@ -8,7 +8,7 @@ def img_to_text():
             pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
             
             # Read image from which text needs to be extracted
-            img = cv2.imread("screenshot.png")
+            img = cv2.imread("face2.png")
             
             # Preprocessing the image starts
             

@@ -4,7 +4,7 @@ import imageio
 def half_slicer():
         # Read the image
         img = imageio.imread("screenshot.png")
-        height, width = img.shape(1080, 1920)
+        height, width,length = img.shape
         
         # Cut the image in half
         width_cutoff = width // 2
@@ -12,6 +12,6 @@ def half_slicer():
         s2 = img[:, width_cutoff:]
         
         # Save each half
-        misc.imsave("face1.png", s1)
-        misc.imsave("face2.png", s2)
+        imageio.imsave("face1.png", s1)
+        imageio.imsave("face2.png", s2)
 half_slicer()
