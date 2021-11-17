@@ -1,25 +1,51 @@
+
+
+
+ 
+
+Answer all the Questions
+
  
 
  
 
  
 
-Ans.
+ 
 
  
 
-A biome is a different form of an
-ecosystem in which a large land area
-with a distinct climate and plants and
-animal species exist.
+ 
 
  
 
-The ecosystem is an
-interaction of the living
-and non- living
-components in an
-environment.
+ 
+
+ 
+
+ 
+
+Question Description “Marks
+Iv = In(p + q? — p2q — pq”), then find pp + 2Vpq + gq 10
+A flat circular plate has the shape of the region x + y? < 1. The plate, including the boundary|
+where x? + y* = 1, is heated so that the temperature at any pointis T(x,y) = x? + 2y*—x] 4g
+Find the temperatures at the hottest and coldest points on the plate.
+Evaluate the following integral by changing the order of integration:
+Sp LE" xy da 10
+Find the volume of the portion of the sphere with center as origin and radius as “B° lying inside|
+the cylinder x? + y? = bx. 10
+If force on a particle is f = (2xyz*)i + x2} + 3xz7k, then show that the work done by the
+force f is independent of path of integration. Hence evaluate it in moving an object from) 49
+
+(1,-2,1) w (3,14).
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -29,40 +55,14 @@ environment.
 
  
 
-Ecosystem?
-
  
 
  
 
-known as a good ecosystem.
-4.Difference between Biome and
-
- 
-
- 
-
- 
-
-ecosystem in the world.
-
-3.What makes a good ecosystem?
-
-Ans. An ecosystem with a balanced
-atmosphere and plant and animal life with
-surplus amounts of fresh water can be
-
- 
-
- 
-
-Ans. The Oceans are the biggest
-
- 
-
- 
-
-world?
+Fall 2021-2022
+MATI001
+B21+B22+B23/0149
+50
 
  
 
@@ -72,9 +72,10 @@ world?
 
  
 
-1.Which ecosystem do we live in?
-Ans.We live in the Terrestrial Ecosystem.
-2.Which is the largest ecosystem in the
+Programme
+Course
+Faculty
+Time
 
  
 
@@ -84,55 +85,73 @@ Ans.We live in the Terrestrial Ecosystem.
 
  
 
-EVS: Tutorial 1
+VIT’
 
+BHOPAL
+
+www vitopa.ac in
+
+ 
+
+Mid-Term Examinations — November 2021
+
+: B-Tech.-BCY, BAC, BAI, MIM Semester
+: Calculus and Laplace Transforms Code
+: Dr. Bhumika Choksi Slot/Class No.
+
+2D hours Max. Marks
+
+ 
+
+ 
+
+
  
 
  
 
  
 
+Mid-Term Examinations — November 2021
+
+ 
+
+Programme |} : B.Tech.-BCY, BAC, BAI, MIM Semester Fall 2021-2022
+Course Calculus and Laplace Transforms Code MATI001
+
+Faculty Dr. Bhumika Choksi Slot/Class No. B21+B22+B23/0149
+Time 1% hours Max. Marks 50
+
+‘Answer all the Questions
+
  
 
  
 
  
 
- 
-
-EVS: Tutorial 1
-1.Which ecosystem do we live in?
-Ans.We live in the Terrestrial Ecosystem.
-2.Which is the largest ecosystem in the
-
-world?
-
-Ans. The Oceans are the biggest
-ecosystem in the world.
-3.What makes a good ecosystem?
-Ans. An ecosystem with a balanced
-atmosphere and plant and animal life with
-surplus amounts of fresh water can be
-
-known as a good ecosystem.
-
-4.Difference between Biome and
-Ecosystem?
-
-Ans.
+     
 
  
 
-The ecosystem is an
-interaction of the living
-and non- living
-components in an
-environment.
+Q.Na Question Description Marks
+1 [ify =In(p + q? — pq — pq”), then find vpp + 20 pq + Yaq 10
+2 |Aflat circular plate has the shape of the region x” + y” < 1. The plate, including the boundary]
 
-A biome is a different form of an
-ecosystem in which a large land area
-with a distinct climate and plants and
-animal species exist.
+where x + y? = 1, is heated so that the temperature at any point is T(x, y) = 10
+Find the temperatures at the hottest and coldest points on the plate.
+3] [Evaluate the following integral by changing the order of integration:
+1 pdx
+Sp LE" xy da 10
+4 [Find the volume of te portion ofthe sphere with centers origin and radius as" Tying inside) 5
+
+tthe cylinder x? + y? = bx.
+
+ 
+
+5 |If force on a particle is f = (2xyz*)i + x?j + 3xz7k, then show that the work done by the]
+force f is independent of path of integration. Hence evaluate it in moving an object from) 49
+(1,-2,1) w (3,14).
 
  
 
