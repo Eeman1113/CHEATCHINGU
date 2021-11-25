@@ -4,14 +4,18 @@ import os
 
 def question_extracter(a):
     l=[]
+    t=[]
     for i in a:
-        print(i)
+        
         if i=='Q':
             for j in a[a.index(i):]:
                 if j=='?':
                     l.append(j)
                     print(l)
+                    t.append(l) 
                     break
+                else:
+                    l.append(j)
         else:
             continue
                 
