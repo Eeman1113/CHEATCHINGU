@@ -5,13 +5,15 @@ import os
 def question_extracter(a):
     l=[]
     t=[]
-    for i in a:#loop runnig for all elements of a
+    f=len(a)
+    for i in range(0,f):#loop running for length of a
         
-        if i=='Q':#if statement to find weather a q is found or not
-            for j in a[a.index(i):]:#loop running for all elements of a from index of Q to end
+        if a[i]=='Q':#if statement to find weather index value is q or not 
+            for j in a[i:]:#loop running for all elements of a from index of Q to end
                 if j=='?':#breaking loop if a ? is found
                     l.append(j)#appending ? to l
                     t.append(l)#appending l to t for making a list with all the questions
+                    l=[]#emptying the list l
                     break#breaking loop and starting the if statement again
                 else:#if a ? is not found then appending the elements to l
                     l.append(j)
